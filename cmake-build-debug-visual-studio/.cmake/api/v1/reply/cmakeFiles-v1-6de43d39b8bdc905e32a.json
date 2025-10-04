@@ -1,0 +1,287 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug-visual-studio/CMakeFiles/3.26.4/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/libwebsockets/libwebsockets-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/libwebsockets/libwebsockets-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/libwebsockets/LibwebsocketsTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/libwebsockets/LibwebsocketsTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/libwebsockets/LibwebsocketsTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/libwebsockets/LwsCheckRequirements.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/portaudio/portaudioConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/portaudio/portaudioConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/portaudio/portaudioTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/portaudio/portaudioTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/portaudio/portaudioTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/opus/OpusConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/opus/OpusConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/opus/OpusTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/opus/OpusTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/opus/OpusTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/cjson/cJSONConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/cjson/cJSONConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/cjson/cjson.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/cjson/cjson-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/cjson/cjson-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/liuyo/vcpkg/installed/x64-windows/share/openssl/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "D:/Development tools/CLion 2023.2.1/bin/cmake/win/x64/share/cmake-3.26/Modules/FindPackageMessage.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "E:/Projects_from_Github/chatbot/cmake-build-debug-visual-studio",
+		"source" : "E:/Projects_from_Github/chatbot"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

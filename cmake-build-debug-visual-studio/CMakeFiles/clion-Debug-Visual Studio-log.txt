@@ -1,0 +1,4 @@
+"D:\Development tools\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Development tools/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:/Users/liuyo/vcpkg/scripts/buildsystems/vcpkg.cmake -DVCPKG_TARGET_TRIPLET=x64-windows -DUSE_OPENSSL=ON -G Ninja -S E:\Projects_from_Github\chatbot -B E:\Projects_from_Github\chatbot\cmake-build-debug-visual-studio
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/Projects_from_Github/chatbot/cmake-build-debug-visual-studio
